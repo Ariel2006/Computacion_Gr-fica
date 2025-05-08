@@ -1,0 +1,10 @@
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
