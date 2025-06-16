@@ -1,0 +1,11 @@
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\bin\Debug\ProyectPaint.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\bin\Debug\ProyectPaint.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\bin\Debug\ProyectPaint.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.csproj.AssemblyReference.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.FrmProyecto.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.Properties.Resources.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.csproj.GenerateResource.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectPaint\ProyectPaint\obj\Debug\ProyectPaint.exe.config
