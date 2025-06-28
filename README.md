@@ -34,10 +34,10 @@ Bienvenido al repositorio del **GRUPO 5** para el curso de COMPUTACION GRAFICA.
 
 ### 👥 Integrantes del GRUPO 5
 
-- 👨‍💻 **Integrante 1** - Rol/Especialidad
-- 👩‍💻 **Integrante 2** - Rol/Especialidad  
-- 👨‍💻 **Integrante 3** - Rol/Especialidad
-- 👩‍💻 **Integrante 4** - Rol/Especialidad
+- 👨‍💻 **Ariel Jara** - Desarrollador Principal
+- 👨‍💻 **Nicolas Chillo** - Especialista en Gráficos  
+- 👨‍💻 **Erick Obando** - Programador
+- 👨‍💻 **Dennis Chalacan** - Analista de Sistemas
 
 ### 🛠️ Tecnologías Utilizadas
 
@@ -86,14 +86,6 @@ python src/main.py
 - ✅ Crear animaciones 3D
 - ✅ Desarrollar interfaces interactivas
 - ✅ Optimizar rendimiento gráfico
-
-### 📸 Screenshots
-
-*Próximamente...*
-
-### 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Por favor lee nuestras [guías de contribución](CONTRIBUTING.md).
 
 ### 📄 Licencia
 
