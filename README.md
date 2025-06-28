@@ -17,22 +17,22 @@
 
 ---
 
-### 🔥 Proyecto de Computación Gráfica
+### 🔥 Proyecto de COMPUTACION GRAFICA
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/repo)
-![GitHub license](https://img.shields.io/github/license/username/repo)
+![GitHub stars](https://img.shields.io/github/stars/Ariel2006/Computacion_Gr-fica?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ariel2006/Computacion_Gr-fica?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Ariel2006/Computacion_Gr-fica)
+![GitHub license](https://img.shields.io/github/license/Ariel2006/Computacion_Gr-fica)
 
 </div>
 
 ### 📋 Descripción
 
-Bienvenido al repositorio del **Grupo 5** para el curso de Computación Gráfica. 
+Bienvenido al repositorio del **GRUPO 5** para el curso de COMPUTACION GRAFICA. 
 
-### 👥 Integrantes del Grupo 5
+### 👥 Integrantes del GRUPO 5
 
 - 👨‍💻 **Integrante 1** - Rol/Especialidad
 - 👩‍💻 **Integrante 2** - Rol/Especialidad  
@@ -42,6 +42,8 @@ Bienvenido al repositorio del **Grupo 5** para el curso de Computación Gráfica
 ### 🛠️ Tecnologías Utilizadas
 
 - 🎮 **OpenGL** - Renderizado 3D
+- 💻 **Visual Studio 2022** - Entorno de desarrollo
+- ⚡ **.NET** - Framework de desarrollo
 - 🐍 **Python** - Lenguaje principal
 - 🔢 **NumPy** - Cálculos matemáticos
 - 📊 **Matplotlib** - Visualización
@@ -66,10 +68,10 @@ computacion-grafica-grupo5/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/username/computacion-grafica-grupo5.git
+git clone https://github.com/Ariel2006/Computacion_Gr-fica.git
 
 # Entrar al directorio
-cd computacion-grafica-grupo5
+cd Computacion_Gr-fica
 
 # Instalar dependencias
 pip install -r requirements.txt
@@ -103,6 +105,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **⭐ ¡No olvides dar una estrella al proyecto si te resulta útil! ⭐**
 
-*Desarrollado con ❤️ por el Grupo 5*
+*Desarrollado con ❤️ por el GRUPO 5*
 
 </div>
