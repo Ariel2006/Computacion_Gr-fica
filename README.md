@@ -1,10 +1,12 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  ____  
+ / ___| 
+| |  _  
+| |_| | 
+ \____| 
 
-.pixel-text {
-  font-family: 'Press Start 2P', monospace;
-  font-size: 32px;
-}
-</style>
-
-<p class="pixel-text">GITHUB</p>
+ _____ 
+| ____|
+| |__  
+|___ \ 
+ ___) |
+|____/ 
