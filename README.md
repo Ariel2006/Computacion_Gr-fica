@@ -53,15 +53,35 @@ Bienvenido al repositorio del **GRUPO 5** para el curso de COMPUTACION GRAFICA.
 
 ```
 computacion-grafica-grupo5/
-├── 📁 src/
-│   ├── 📄 main.py
-│   ├── 📄 graphics.py
-│   └── 📄 utils.py
-├── 📁 docs/
+├── 📁 DiseñoOptico/
+│    ├──📁 DiseñoOptico/
+│    │     ├── 📁 Properties/
+│    │     ├── 📁 Resources/
+│    │     ├── 📁 bin/Debug/
+│    │     ├── 📁 obj/Debug/
+│    │     ├── 📄 App.config
+│    │     ├── 📄 DiseñoOptico.csproj
+│    │     ├── 📄 Form1.Designer.cs
+│    │     ├── 📄 Form1.cs
+│    │     ├── 📄 Form1.resx
+│    │     └── 📄 Program.cs
+│    └── 📄 DiseñoOptico.sln
+├── 📁 FigurasGeometricas/
+│    ├──📁 FigurasGeometricas/
+│    │     ├── 📁 Properties/
+│    │     ├── 📁 Resources/
+│    │     ├── 📁 bin/Debug/
+│    │     ├── 📁 obj/Debug/
+│    │     ├── 📄 App.config
+│    │     ├── 📄 FigurasGeometrica.csproj
+│    │     ├── 📄 Form1.Designer.cs
+│    │     ├── 📄 Form1.cs
+│    │     ├── 📄 Form1.resx
+│    │     └── 📄 Program.cs
+│    └── 📄 FigurasGeometricas.sln
 ├── 📁 examples/
 ├── 📁 tests/
-├── 📄 README.md
-└── 📄 requirements.txt
+└──📄 README.md
 ```
 
 ### 🚀 Instalación y Uso
