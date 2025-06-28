@@ -79,8 +79,19 @@ computacion-grafica-grupo5/
 │    │     ├── 📄 Form1.resx
 │    │     └── 📄 Program.cs
 │    └── 📄 FigurasGeometricas.sln
-├── 📁 examples/
-├── 📁 tests/
+├── 📁 GraficaProyectoP2/
+│    ├──📁 GraficaProyectoP2/
+│    │     ├── 📁 Properties/
+│    │     ├── 📁 Resources/
+│    │     ├── 📁 bin/Debug/
+│    │     ├── 📁 obj/Debug/
+│    │     ├── 📄 App.config
+│    │     ├── 📄 GraficaProyectoP2.csproj
+│    │     ├── 📄 Form1.Designer.cs
+│    │     ├── 📄 Form1.cs
+│    │     ├── 📄 Form1.resx
+│    │     └── 📄 Program.cs
+│    └── 📄 GraficaProyectoP2.sln
 └──📄 README.md
 ```
 
