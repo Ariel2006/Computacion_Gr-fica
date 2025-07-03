@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+# Others
+*.dbmdl
+*.bak
+*.tmp
+*.swp
+*.sdf
+*.scc
+*.orig
+*.psess
+*.vsp
+*.vspx
+
+# Rider
+.idea/
+*.sln.iml
+
+# Windows image thumbnail cache
+Thumbs.db
+
+# Mac
+.DS_Store
