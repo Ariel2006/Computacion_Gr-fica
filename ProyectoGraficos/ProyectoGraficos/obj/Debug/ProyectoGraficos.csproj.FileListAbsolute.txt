@@ -1,0 +1,11 @@
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.csproj.AssemblyReference.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.Properties.Resources.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.csproj.GenerateResource.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\bin\Debug\ProyectoGraficos.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\bin\Debug\ProyectoGraficos.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\bin\Debug\ProyectoGraficos.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficos\ProyectoGraficos\obj\Debug\ProyectoGraficos.Form1.resources
