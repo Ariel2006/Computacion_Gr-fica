@@ -1,0 +1,9 @@
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\bin\Debug\RadioButtom.exe.config
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\bin\Debug\RadioButtom.exe
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\bin\Debug\RadioButtom.pdb
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\obj\Debug\RadioButtom.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\obj\Debug\RadioButtom.Properties.Resources.resources
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\obj\Debug\RadioButtom.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\obj\Debug\RadioButtom.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\obj\Debug\RadioButtom.exe
+C:\Users\Ariel\source\repos\RadioButtom\RadioButtom\obj\Debug\RadioButtom.pdb
